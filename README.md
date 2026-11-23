@@ -8,12 +8,13 @@ your provider. Only watch services and content you have the right to watch.
 
 ## Download
 
+- **Website:** [zapette.app](https://zapette.app): features, pricing, install guide.
 - **Latest APK:** [Zapette.apk](https://github.com/makss68/zapette/releases/latest/download/Zapette.apk)
   (Android 7.0 or later). All versions are under [Releases](https://github.com/makss68/zapette/releases).
-- **Web app:** [video-stream-lilac.vercel.app](https://video-stream-lilac.vercel.app), nothing to install.
+- **Web app:** [web.zapette.app](https://web.zapette.app), nothing to install.
 
-On Android TV, install the free **Downloader** app, type the APK address above, then allow Downloader
-to install apps when Android asks. Each release lists the SHA-256 of its APK.
+On Android TV, install the free **Downloader** app, type `zapette.app/apk`, then allow Downloader to
+install apps when Android asks. Each release lists the SHA-256 of its APK.
 
 ## Help
 
